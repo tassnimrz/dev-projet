@@ -1,0 +1,942 @@
+[
+  {
+    "id": "gift-1",
+    "title": "Aura Artisanal Botanical Candle & Matches",
+    "subtitle": "Hand-poured natural soy wax with Tunisian jasmine & neroli",
+    "category": "Beauty & Home",
+    "priceTND": 48,
+    "originalPriceTND": 60,
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1000&q=80",
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1608181831835-24cf239247ea?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Slow-crafted in small batches, this vegan candle infuses delicate Cap Bon neroli and fresh white jasmine. Poured into a reusable ceramic tumbler with natural wood wick and accompanied by a chic pink glass match cloche.",
+    "whyMatches": "Perfect for someone who loves calm sanctuaries, soft floral aromas, and mindful rituals at home.",
+    "wrappingIdea": "Wrap in ribbed blush crepe paper sealed with a dried sprig of dried lavender and natural twine.",
+    "sampleCardMessage": "May every flicker of this flame bring tranquility and warmth into your sacred moments.",
+    "tags": [
+      "Aromatherapy",
+      "Handcrafted",
+      "Organic",
+      "Cozy Living"
+    ],
+    "compatibleRecipients": [
+      "friend",
+      "best-friend",
+      "partner",
+      "parent",
+      "colleague",
+      "sibling"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "thank-you",
+      "spontaneous",
+      "housewarming",
+      "anniversary"
+    ],
+    "budgetBracket": "20-50",
+    "interests": [
+      "beauty",
+      "handmade",
+      "nature"
+    ],
+    "isFeatured": true,
+    "isPopular": true,
+    "sellerName": "Maison Jasmin Craft",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-2",
+    "title": "Vintage Fuji Instant Film Camera & Pastels Pack",
+    "subtitle": "Pocket analogue camera with pastel lilac accents",
+    "category": "Photography & Tech",
+    "priceTND": 220,
+    "originalPriceTND": 260,
+    "rating": 4.8,
+    "reviewsCount": 98,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=1000&q=80",
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Instant film photography re-imagined. Features automatic exposure control, close-up selfie lens mirror, and includes two packs of credit-card sized film sheets with pastel borders.",
+    "whyMatches": "For the visual storyteller who cherishes tangible nostalgia, spontaneous road trips, and tactile memories.",
+    "wrappingIdea": "Place in a sturdy lavender gift box filled with shredded iridescent paper and a polaroid photo clip on top.",
+    "sampleCardMessage": "To capturing life’s sweetest unscripted seconds together. Never stop smiling!",
+    "tags": [
+      "Analogue",
+      "Retro",
+      "Memories",
+      "Creative"
+    ],
+    "compatibleRecipients": [
+      "best-friend",
+      "partner",
+      "friend",
+      "sibling"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "graduation",
+      "anniversary",
+      "spontaneous"
+    ],
+    "budgetBracket": "above-200",
+    "interests": [
+      "photography",
+      "art",
+      "travel"
+    ],
+    "isFeatured": true,
+    "isPopular": true,
+    "sellerName": "Lumière Vintage Studio",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-3",
+    "title": "Handcrafted Olive Wood Pour-Over Coffee Station",
+    "subtitle": "Sculpted Tunisian wild olive grain with borosilicate glass dripper",
+    "category": "Coffee & Kitchen",
+    "priceTND": 95,
+    "originalPriceTND": 115,
+    "rating": 4.9,
+    "reviewsCount": 76,
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1000&q=80",
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Carved by master artisans in Sfax from sustainable ancient olive wood timbers. Each piece displays unique swirl patterns and accommodates standard V60 filter cones for the ultimate morning brew ritual.",
+    "whyMatches": "Appeals to third-wave coffee purists who appreciate artisan craftsmanship and slow morning rituals.",
+    "wrappingIdea": "Unbleached kraft wrap tied with dark chocolate linen ribbon and a tiny coffee bean burlap pouch attached.",
+    "sampleCardMessage": "Here is to slow, fragrant mornings and ideas that percolate over quiet cups of warmth.",
+    "tags": [
+      "Specialty Coffee",
+      "Olive Wood",
+      "Tunisian Heritage",
+      "Minimalist"
+    ],
+    "compatibleRecipients": [
+      "partner",
+      "parent",
+      "best-friend",
+      "colleague",
+      "friend"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "anniversary",
+      "housewarming",
+      "thank-you"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "coffee",
+      "handmade",
+      "art"
+    ],
+    "isFeatured": true,
+    "sellerName": "Artisanat du Sud",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-4",
+    "title": "Gilded Freshwater Pearl & 18k Vermeil Pendant",
+    "subtitle": "Baroque pearl necklace with delicate micro-pearl chain",
+    "category": "Fashion & Jewelry",
+    "priceTND": 145,
+    "originalPriceTND": 180,
+    "rating": 5,
+    "reviewsCount": 112,
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1000&q=80",
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "An organic luminous baroque pearl suspended from a hypoallergenic 18k gold vermeil rolo chain. Designed to be worn solo for effortless French-girl elegance or layered with delicate chokers.",
+    "whyMatches": "An heirloom-quality piece for the lover of understated luxury and timeless personal style.",
+    "wrappingIdea": "Velvet jewelry box wrapped in ivory satin ribbon with an embossed wax stamp seal.",
+    "sampleCardMessage": "Like this pearl, you bring quiet brilliance and grace into every room you enter.",
+    "tags": [
+      "Jewelry",
+      "Timeless",
+      "Fine Accessories",
+      "Elegance"
+    ],
+    "compatibleRecipients": [
+      "partner",
+      "best-friend",
+      "parent",
+      "sibling"
+    ],
+    "compatibleOccasions": [
+      "anniversary",
+      "birthday",
+      "wedding",
+      "graduation"
+    ],
+    "budgetBracket": "100-200",
+    "interests": [
+      "fashion",
+      "beauty"
+    ],
+    "isFeatured": true,
+    "isPopular": true,
+    "sellerName": "Atelier Bijoux D’Or",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-5",
+    "title": "Linen Bound Hardcover Reading Journal & Embossed Bookmark",
+    "subtitle": "Archival paper with book review trackers & ribbon markers",
+    "category": "Books & Stationery",
+    "priceTND": 38,
+    "originalPriceTND": 45,
+    "rating": 4.8,
+    "reviewsCount": 64,
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1000&q=80",
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Clothbound in textured sage linen with gold foil stamping. Contains 200 heavyweight cream pages designed for reading wishlists, favorite quotes, literary reflections, and personal reading goals.",
+    "whyMatches": "A dream gift for passionate bookworms, voracious readers, and thoughtful writers.",
+    "wrappingIdea": "Bookish newsprint wrapping paper wrapped in burgundy grosgrain ribbon with a hand-lettered quote tag.",
+    "sampleCardMessage": "Between every page you turn, know that our favorite story will always be ours.",
+    "tags": [
+      "Book Lover",
+      "Stationery",
+      "Mindfulness",
+      "Personalized"
+    ],
+    "compatibleRecipients": [
+      "friend",
+      "best-friend",
+      "sibling",
+      "colleague",
+      "parent"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "graduation",
+      "thank-you",
+      "spontaneous"
+    ],
+    "budgetBracket": "20-50",
+    "interests": [
+      "books",
+      "art"
+    ],
+    "isFeatured": false,
+    "sellerName": "Les Mots Doux",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-6",
+    "title": "Botanical Rosewater & Prickly Pear Silk Elixir",
+    "subtitle": "Cold-pressed organic serum with organic Damask rose hydrosol",
+    "category": "Beauty & Skincare",
+    "priceTND": 72,
+    "originalPriceTND": 85,
+    "rating": 4.9,
+    "reviewsCount": 88,
+    "image": "https://images.unsplash.com/photo-1608248597359-009180f681be?auto=format&fit=crop&w=1000&q=80",
+    "description": "Enriched with wild harvested Tunisian prickly pear seed oil (figue de barbarie)—nature’s richest source of vitamin E and antioxidant protection. Hydrates and restores radiant glass-skin glow.",
+    "whyMatches": "For the beauty connoisseur who prioritizes organic, clean ingredients and radiant skin wellness.",
+    "wrappingIdea": "Soft dusty pink organza bag inside a clean magnetic white gift box with dried rose petals scattered inside.",
+    "sampleCardMessage": "A little bottle of glow for the radiant soul who lights up our lives every day.",
+    "tags": [
+      "Clean Beauty",
+      "Prickly Pear Oil",
+      "Radiance",
+      "Luxury Skincare"
+    ],
+    "compatibleRecipients": [
+      "partner",
+      "best-friend",
+      "parent",
+      "sibling",
+      "friend"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "anniversary",
+      "thank-you",
+      "spontaneous"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "beauty",
+      "nature"
+    ],
+    "isFeatured": true,
+    "sellerName": "Botanique Sauvage",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-7",
+    "title": "Minimalist Ceramic Travel Mug & Organic Herbal Infusion Kit",
+    "subtitle": "Double-walled pastel ceramic tumbler + verbena and mint tea tin",
+    "category": "Coffee & Tea",
+    "priceTND": 42,
+    "originalPriceTND": 50,
+    "rating": 4.7,
+    "reviewsCount": 53,
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=1000&q=80",
+    "description": "Ergonomic splash-resistant tumbler coated in matte lavender ceramic. Paired with hand-picked organic lemon verbena (Louisa) and mountain mint from Zaghouan for soothing afternoon breaks.",
+    "whyMatches": "Great for busy professionals, students, or tea and coffee lovers constantly on the move.",
+    "wrappingIdea": "Wrapped in pastel peach butcher paper tied with a fresh sprig of rosemary and natural twine.",
+    "sampleCardMessage": "Wishing you cozy sips, peaceful breathers, and serene thoughts on your busiest days.",
+    "tags": [
+      "Sustainable",
+      "On the Go",
+      "Herbal",
+      "Cozy"
+    ],
+    "compatibleRecipients": [
+      "colleague",
+      "friend",
+      "sibling",
+      "other",
+      "parent"
+    ],
+    "compatibleOccasions": [
+      "thank-you",
+      "birthday",
+      "spontaneous"
+    ],
+    "budgetBracket": "20-50",
+    "interests": [
+      "coffee",
+      "nature",
+      "travel"
+    ],
+    "isFeatured": false,
+    "sellerName": "Matin Doux",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-8",
+    "title": "Retro Portable Bluetooth Vinyl Speaker",
+    "subtitle": "Walnut wood grain with warm ambient sound & 12h battery",
+    "category": "Music & Tech",
+    "priceTND": 165,
+    "originalPriceTND": 195,
+    "rating": 4.8,
+    "reviewsCount": 91,
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=1000&q=80",
+    "description": "Combining mid-century audio aesthetics with cutting-edge Bluetooth 5.3 technology. Delivers rich acoustic resonance, deep bass, and features tactile brass knobs for volume control.",
+    "whyMatches": "Delights music lovers, podcast addicts, and design enthusiasts who want warm audio aesthetics.",
+    "wrappingIdea": "Matte black gift paper with gold Japanese metallic washi tape and an audio cassette charm.",
+    "sampleCardMessage": "To scoring the soundtrack of your next great adventure. Keep playing on repeat!",
+    "tags": [
+      "Music",
+      "Acoustics",
+      "Retro Tech",
+      "Design Object"
+    ],
+    "compatibleRecipients": [
+      "partner",
+      "best-friend",
+      "sibling",
+      "friend"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "graduation",
+      "anniversary"
+    ],
+    "budgetBracket": "100-200",
+    "interests": [
+      "music",
+      "technology",
+      "art"
+    ],
+    "isFeatured": true,
+    "sellerName": "Son & Rythme Audio",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-9",
+    "title": "Artisan Embroidered Linen Tote & Sketching Set",
+    "subtitle": "Hand-loomed cotton canvas with professional Faber-Castell pencils",
+    "category": "Art & Fashion",
+    "priceTND": 65,
+    "originalPriceTND": 78,
+    "rating": 4.9,
+    "reviewsCount": 47,
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+    "description": "Sturdy 14oz unbleached canvas tote featuring subtle floral chain embroidery, paired with a tin of 12 graphite sketching pencils, kneaded eraser, and a spiral-bound pocket sketchbook.",
+    "whyMatches": "Inspires creative souls who love museum strolls, urban sketching, and artistic expression.",
+    "wrappingIdea": "Tied neatly with wide terracotta ribbon, accented with a blank watercolor swatch card.",
+    "sampleCardMessage": "The world is waiting for the art that only you can make. Create without fear!",
+    "tags": [
+      "Handmade",
+      "Sketching",
+      "Boho Chic",
+      "Artistic"
+    ],
+    "compatibleRecipients": [
+      "best-friend",
+      "friend",
+      "sibling",
+      "other"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "graduation",
+      "spontaneous",
+      "thank-you"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "art",
+      "fashion",
+      "handmade"
+    ],
+    "isFeatured": false,
+    "sellerName": "Atelier Sidi Bou Said",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-10",
+    "title": "Gourmet Medjool Dates & Artisan Pistachio Praline Box",
+    "subtitle": "Topped with edible rose petals, roasted almonds and dark chocolate",
+    "category": "Gourmet Treats",
+    "priceTND": 45,
+    "originalPriceTND": 55,
+    "rating": 5,
+    "reviewsCount": 168,
+    "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=1000&q=80",
+    "description": "Plump premium Deglet Nour dates from Tozeur, delicately stuffed with Sicilian pistachio paste, orange blossom infused marzipan, and dipped in 70% dark single-origin chocolate.",
+    "whyMatches": "An irresistible delight for foodies, celebratory gatherings, and sweet gestures of gratitude.",
+    "wrappingIdea": "Presented in a rigid hexagonal box with gold filigree pattern and purple grosgrain bow.",
+    "sampleCardMessage": "Life is too short not to savor every single bite of sweetness together.",
+    "tags": [
+      "Gourmet",
+      "Deglet Nour",
+      "Handmade Confection",
+      "Tunisian Sweet"
+    ],
+    "compatibleRecipients": [
+      "colleague",
+      "parent",
+      "friend",
+      "partner",
+      "other"
+    ],
+    "compatibleOccasions": [
+      "thank-you",
+      "birthday",
+      "housewarming",
+      "wedding",
+      "spontaneous"
+    ],
+    "budgetBracket": "20-50",
+    "interests": [
+      "handmade",
+      "nature",
+      "coffee"
+    ],
+    "isFeatured": true,
+    "sellerName": "Douceurs d’Oasis",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-11",
+    "title": "Noise-Cancelling Wireless Earbuds in Blush Pink",
+    "subtitle": "Active noise cancellation with 32-hour battery and wireless charging",
+    "category": "Technology",
+    "priceTND": 185,
+    "originalPriceTND": 220,
+    "rating": 4.8,
+    "reviewsCount": 84,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1000&q=80",
+    "description": "Sleek matte pebble case with featherlight ergonomic earbuds. Features seamless Bluetooth pairing, water resistance, deep balanced bass, and crystal-clear voice microphones.",
+    "whyMatches": "For tech-savvy audiophiles, remote workers, and podcast lovers who appreciate chic colorways.",
+    "wrappingIdea": "Sleek minimalist white box tied with lilac metallic string and a geometric gift tag.",
+    "sampleCardMessage": "Tune into your favorite beats and tune out the world whenever you need your zone.",
+    "tags": [
+      "Wireless Tech",
+      "Blush Edition",
+      "Productivity",
+      "Hi-Fi"
+    ],
+    "compatibleRecipients": [
+      "partner",
+      "sibling",
+      "best-friend",
+      "colleague"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "graduation",
+      "anniversary"
+    ],
+    "budgetBracket": "100-200",
+    "interests": [
+      "technology",
+      "music",
+      "travel"
+    ],
+    "isFeatured": false,
+    "sellerName": "NextGen Sound Lab",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-12",
+    "title": "Pressed Mediterranean Botanical Herbarium Frame",
+    "subtitle": "Hand-pressed wild bougainvillea & olive leaves in floating brass frame",
+    "category": "Art & Home Decor",
+    "priceTND": 58,
+    "originalPriceTND": 70,
+    "rating": 4.9,
+    "reviewsCount": 61,
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1000&q=80",
+    "description": "Suspended between two panes of double-strength floating glass encased in antique brushed brass. Real pressed specimens preserved to retain natural Mediterranean colors for years.",
+    "whyMatches": "Brings enduring natural beauty and poetic Mediterranean charm to any living or bedroom space.",
+    "wrappingIdea": "Padded honeycomb paper sealed with a wax seal stamp of a leaf and eucalyptus branch.",
+    "sampleCardMessage": "May your days forever blossom with joy, grace, and wild sunshine.",
+    "tags": [
+      "Botanical",
+      "Pressed Flowers",
+      "Brass Frame",
+      "Handmade"
+    ],
+    "compatibleRecipients": [
+      "best-friend",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "compatibleOccasions": [
+      "housewarming",
+      "birthday",
+      "anniversary",
+      "wedding"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "nature",
+      "art",
+      "handmade"
+    ],
+    "isFeatured": true,
+    "sellerName": "Flora & Antiqua",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-13",
+    "title": "Monogrammed Leather Passport Holder & Luggage Tag",
+    "subtitle": "Full-grain Italian leather in dusty rose with brass hardware",
+    "category": "Travel & Lifestyle",
+    "priceTND": 85,
+    "originalPriceTND": 105,
+    "rating": 4.9,
+    "reviewsCount": 73,
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+    "description": "Hand-stitched vegetable-tanned leather designed to protect your passport and boarding documents. Comes with a matching luggage tag with privacy flap and custom gold-foil initials.",
+    "whyMatches": "Essential companion for the jet-setter dreamer who loves stamps in passports and journeys abroad.",
+    "wrappingIdea": "Vintage airmail patterned paper tied with baker’s twine and a tiny brass airplane tag.",
+    "sampleCardMessage": "May your horizons be broad, your luggage never lost, and your adventures unforgettable!",
+    "tags": [
+      "Wanderlust",
+      "Genuine Leather",
+      "Travel Gear",
+      "Personalized"
+    ],
+    "compatibleRecipients": [
+      "partner",
+      "best-friend",
+      "sibling",
+      "friend"
+    ],
+    "compatibleOccasions": [
+      "graduation",
+      "birthday",
+      "wedding",
+      "anniversary"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "travel",
+      "fashion"
+    ],
+    "isFeatured": false,
+    "sellerName": "Voyageur & Co",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-14",
+    "title": "Delicate Silk Sleep Mask & Organic Lavender Mist",
+    "subtitle": "100% Mulberry silk mask with pillow mist for deep slumber",
+    "category": "Beauty & Wellness",
+    "priceTND": 42,
+    "originalPriceTND": 52,
+    "rating": 4.8,
+    "reviewsCount": 110,
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1000&q=80",
+    "description": "Crafted from pure 22-momme grade 6A silk to prevent delicate skin creases and protect eyelashes. Includes a 50ml calming pillow spray distilled from French lavender and chamomile.",
+    "whyMatches": "The ultimate gesture of care for anyone needing restful slumber, self-love, and cozy comfort.",
+    "wrappingIdea": "Soft velvet drawstring pouch tied with a silk ribbon and dried chamomile buds.",
+    "sampleCardMessage": "Sending you gentle nights, dreamy thoughts, and the restorative sleep you truly deserve.",
+    "tags": [
+      "Mulberry Silk",
+      "Self-Care",
+      "Rest & Relaxation",
+      "Wellness"
+    ],
+    "compatibleRecipients": [
+      "best-friend",
+      "partner",
+      "parent",
+      "friend",
+      "colleague"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "thank-you",
+      "spontaneous"
+    ],
+    "budgetBracket": "20-50",
+    "interests": [
+      "beauty",
+      "nature"
+    ],
+    "isFeatured": false,
+    "sellerName": "Serene Night Co.",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-15",
+    "title": "Curated Tunisian Specialty Spices & Harissa Atelier Box",
+    "subtitle": "Smoked Baklouti harissa, sun-dried rose harissa & heirloom zaatar",
+    "category": "Gourmet Kitchen",
+    "priceTND": 35,
+    "originalPriceTND": 45,
+    "rating": 4.9,
+    "reviewsCount": 92,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=1000&q=80",
+    "description": "A culinary exploration of authentic Tunisian flavors. Features slow-smoked heirloom red peppers, fragrant wild zaatar, cumin seeds, and a signature jar of Damask rose harissa.",
+    "whyMatches": "Thrills passionate amateur chefs who love experimenting with bold flavors and authentic heritage recipes.",
+    "wrappingIdea": "Wooden fruit crate wrapped in traditional Fouta fabric and tied with dried pepper garland.",
+    "sampleCardMessage": "To cooking up a storm, sharing great meals, and spice that makes life worth savoring!",
+    "tags": [
+      "Culinary",
+      "Harissa",
+      "Heirloom Spices",
+      "Foodie"
+    ],
+    "compatibleRecipients": [
+      "parent",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "compatibleOccasions": [
+      "thank-you",
+      "housewarming",
+      "birthday",
+      "spontaneous"
+    ],
+    "budgetBracket": "20-50",
+    "interests": [
+      "handmade",
+      "nature"
+    ],
+    "isFeatured": false,
+    "sellerName": "Saveurs de Carthage",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-16",
+    "title": "Custom Celestial Constellation Star Map Frame",
+    "subtitle": "Exact night sky alignment for your special date and coordinates",
+    "category": "Art & Keepsakes",
+    "priceTND": 75,
+    "originalPriceTND": 90,
+    "rating": 5,
+    "reviewsCount": 135,
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1000&q=80",
+    "description": "Calculated using high-precision astronomical algorithms to render the exact stars over your chosen location on a pivotal day—first date, wedding, child’s birth, or triumph.",
+    "whyMatches": "An emotionally resonant romantic or milestone gift capturing a forever moment in time.",
+    "wrappingIdea": "Midnight blue paper flecked with silver foil stars, finished with a silver satin bow.",
+    "sampleCardMessage": "The stars aligned the day you walked into my world. Forever written in the sky.",
+    "tags": [
+      "Custom Star Map",
+      "Sentimental",
+      "Keepsake",
+      "Romantic"
+    ],
+    "compatibleRecipients": [
+      "partner",
+      "best-friend",
+      "parent",
+      "sibling"
+    ],
+    "compatibleOccasions": [
+      "anniversary",
+      "wedding",
+      "birthday"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "art",
+      "technology"
+    ],
+    "isFeatured": true,
+    "isPopular": true,
+    "sellerName": "Starline Studio",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-17",
+    "title": "Pocket Botanical Watercolor Palette & Sable Brush",
+    "subtitle": "18 vibrant artist-grade half-pans in embossed metal travel tin",
+    "category": "Art & Creativity",
+    "priceTND": 52,
+    "originalPriceTND": 65,
+    "rating": 4.8,
+    "reviewsCount": 41,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1000&q=80",
+    "description": "Compact travel watercolor set formulated with natural gum arabic and high-intensity pigments. Features a fold-out mixing palette and a collapsible water reservoir sable brush.",
+    "whyMatches": "Inspires plein-air painting on terraces, coffee shop journaling, and colorful creativity on travels.",
+    "wrappingIdea": "Hand-painted watercolor wrapping paper stamped with gold leaf highlights.",
+    "sampleCardMessage": "May you paint your world with all the vibrant colors your heart dreams of.",
+    "tags": [
+      "Watercolor",
+      "Art Supplies",
+      "Travel Size",
+      "Creative Spark"
+    ],
+    "compatibleRecipients": [
+      "best-friend",
+      "friend",
+      "sibling",
+      "other"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "graduation",
+      "spontaneous"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "art",
+      "travel"
+    ],
+    "isFeatured": false,
+    "sellerName": "Couleurs du Cap",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-18",
+    "title": "Luxury Cashmere Touch Pastel Throw Blanket",
+    "subtitle": "Cloud-soft knitted weave in warm champagne & blush peach",
+    "category": "Home & Living",
+    "priceTND": 110,
+    "originalPriceTND": 135,
+    "rating": 4.9,
+    "reviewsCount": 82,
+    "image": "https://images.unsplash.com/photo-1580301762395-21ce84d00bc6?auto=format&fit=crop&w=1000&q=80",
+    "description": "Super-plush oversized knitted throw with fringed edges. Featherlight yet deeply insulating, designed for cozy reading nooks, sofa snuggles, and aesthetic bedroom styling.",
+    "whyMatches": "A warm, embracing gift that feels like an affectionate hug every time they wrap themselves up in it.",
+    "wrappingIdea": "Rolled and secured with a wide blush velvet ribbon and a handwritten kraft tag.",
+    "sampleCardMessage": "Wrapping you in the warmest thoughts, endless affection, and cozy comfort from afar.",
+    "tags": [
+      "Cozy Home",
+      "Throw Blanket",
+      "Pastel Decor",
+      "Snuggle Time"
+    ],
+    "compatibleRecipients": [
+      "parent",
+      "partner",
+      "best-friend",
+      "friend"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "housewarming",
+      "anniversary",
+      "thank-you"
+    ],
+    "budgetBracket": "100-200",
+    "interests": [
+      "fashion",
+      "beauty",
+      "nature"
+    ],
+    "isFeatured": false,
+    "sellerName": "Maison Cocon",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-19",
+    "title": "Handmade Ceramic Matcha Whisk & Glazed Pastel Bowl Set",
+    "subtitle": "Bamboo chasen whisk with speckled lilac ceramic ceremonial chawan",
+    "category": "Coffee & Tea",
+    "priceTND": 78,
+    "originalPriceTND": 95,
+    "rating": 4.9,
+    "reviewsCount": 59,
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1000&q=80",
+    "description": "Elevate your daily matcha ritual. Hand-thrown ceramic bowl with an organic wavy rim, matched with an 80-prong bamboo whisk and a ceramic whisk shaper to preserve its delicate form.",
+    "whyMatches": "For the wellness aficionado who appreciates zen mindfulness, Japanese aesthetics, and frothy matcha.",
+    "wrappingIdea": "Furoshiki fabric wrapping with a floral cotton handkerchief they can keep and reuse.",
+    "sampleCardMessage": "A serene green moment to center your spirit and energize your radiant days.",
+    "tags": [
+      "Matcha Ritual",
+      "Ceramics",
+      "Tea Lover",
+      "Mindfulness"
+    ],
+    "compatibleRecipients": [
+      "best-friend",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "thank-you",
+      "spontaneous"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "coffee",
+      "art",
+      "handmade"
+    ],
+    "isFeatured": false,
+    "sellerName": "Ceramica Zen",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-20",
+    "title": "Mini Portable Photo Printer with Pastel Sticky Back Paper",
+    "subtitle": "Inkless ZINK instant printing via Bluetooth from any smartphone",
+    "category": "Photography & Tech",
+    "priceTND": 195,
+    "originalPriceTND": 230,
+    "rating": 4.7,
+    "reviewsCount": 71,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1000&q=80",
+    "description": "Print moments directly from your phone camera roll anywhere. Uses zero-ink thermal ZINK technology. Prints peel-and-stick photo stickers perfect for scrapbooks, phone cases, and journals.",
+    "whyMatches": "For scrapbookers, memory keepers, and social butterflies who love printing life on demand.",
+    "wrappingIdea": "Pastel pink magnetic box with a mini photo collage attached to the lid.",
+    "sampleCardMessage": "Keep turning our wildest adventures into stickers and memories that last a lifetime.",
+    "tags": [
+      "Instant Print",
+      "Gadget",
+      "Mobile Photography",
+      "Scrapbook"
+    ],
+    "compatibleRecipients": [
+      "best-friend",
+      "sibling",
+      "partner",
+      "friend"
+    ],
+    "compatibleOccasions": [
+      "birthday",
+      "graduation",
+      "spontaneous"
+    ],
+    "budgetBracket": "100-200",
+    "interests": [
+      "photography",
+      "technology",
+      "art"
+    ],
+    "isFeatured": true,
+    "sellerName": "SnapPocket Tech",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-21",
+    "title": "Artisan Glass Flower Bud Vases Trio with Dried Florals",
+    "subtitle": "Fluted vintage amber and blush glass with dried pampas & statice",
+    "category": "Home & Nature",
+    "priceTND": 46,
+    "originalPriceTND": 58,
+    "rating": 4.8,
+    "reviewsCount": 63,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1000&q=80",
+    "description": "Set of three miniature fluted art glass vases in graduated heights. Accompanied by hand-harvested and dried everlasting Mediterranean blooms that need zero watering.",
+    "whyMatches": "Adds effortless bohemian charm and sunlight-catching beauty to bookshelves, desks, or nightstands.",
+    "wrappingIdea": "Wrapped together in tissue paper tied with dusty rose chiffon ribbon.",
+    "sampleCardMessage": "Just a reminder that you bring beauty, color, and quiet delight everywhere you go.",
+    "tags": [
+      "Bud Vases",
+      "Dried Flowers",
+      "Home Styling",
+      "Everlasting"
+    ],
+    "compatibleRecipients": [
+      "friend",
+      "best-friend",
+      "colleague",
+      "parent",
+      "other"
+    ],
+    "compatibleOccasions": [
+      "thank-you",
+      "birthday",
+      "housewarming",
+      "spontaneous"
+    ],
+    "budgetBracket": "20-50",
+    "interests": [
+      "nature",
+      "art",
+      "handmade"
+    ],
+    "isFeatured": false,
+    "sellerName": "Jardin Secret Decor",
+    "isVerifiedSeller": true
+  },
+  {
+    "id": "gift-22",
+    "title": "Pocket Leather Notebook & Brass Fountain Pen Set",
+    "subtitle": "Refillable leather journal with smooth gold-nib pocket fountain pen",
+    "category": "Stationery & Writing",
+    "priceTND": 68,
+    "originalPriceTND": 85,
+    "rating": 4.9,
+    "reviewsCount": 52,
+    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?auto=format&fit=crop&w=1000&q=80",
+    "description": "Hand-burnished genuine leather passport sleeve holding three replaceable dot-grid inserts. Complemented by a weighty solid brass pocket pen that patinas naturally over years of writing.",
+    "whyMatches": "For deep thinkers, poets, architects, and anyone who appreciates the tactile joy of fountain pen on paper.",
+    "wrappingIdea": "Heavy butcher paper tied with leather cord and sealed with initial wax seal.",
+    "sampleCardMessage": "To all the brilliance, dreams, and quiet epiphanies waiting to flow from your mind.",
+    "tags": [
+      "Fountain Pen",
+      "Leatherbound",
+      "Journaling",
+      "Heirloom"
+    ],
+    "compatibleRecipients": [
+      "partner",
+      "parent",
+      "best-friend",
+      "colleague",
+      "sibling"
+    ],
+    "compatibleOccasions": [
+      "graduation",
+      "birthday",
+      "anniversary",
+      "thank-you"
+    ],
+    "budgetBracket": "50-100",
+    "interests": [
+      "books",
+      "art",
+      "handmade"
+    ],
+    "isFeatured": false,
+    "sellerName": "Plume & Parchemin",
+    "isVerifiedSeller": true
+  }
+]

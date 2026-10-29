@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FFFAFC;
+    color: #282238;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom modern scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFF4F8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E9DFFF;
+  border-radius: 9999px;
+  border: 2px solid #FFF4F8;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #7955E8;
+}
+
+/* Soft frosted glass effects */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(248, 220, 232, 0.6);
+}
+
+.glass-panel-elevated {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(233, 223, 255, 0.8);
+  box-shadow: 0 20px 40px -15px rgba(121, 85, 232, 0.08);
+}
+
+/* Gradient mesh background */
+.hero-gradient {
+  background: radial-gradient(circle at 10% 20%, rgba(248, 220, 232, 0.5) 0%, transparent 40%),
+              radial-gradient(circle at 90% 10%, rgba(233, 223, 255, 0.6) 0%, transparent 45%),
+              radial-gradient(circle at 50% 80%, rgba(255, 231, 216, 0.5) 0%, transparent 50%),
+              #FFFAFC;
+}
